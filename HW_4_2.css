@@ -1,9 +1,12 @@
 .all {
-    width: 1400px;
-    height: 1600px;
+    margin: 0 auto;
+    width: 200px;
+    height: 100%;
     background: silver;
     align-items: center;
     row-gap: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
 }
 
 .head_box {
@@ -20,30 +23,42 @@
     display: flex;
     background: green;
     align-items: center;
+    border: 5px gray;
+    border-radius: 10px;
 }
 
 .post_box {
+
     width: 350px;
     height: 200px;
 
 }
 .post1 {
+    border: 10px gray;
+    border-radius: 10px;
     width: 175px;
     height: 100px;
     background: aqua;
 }
 .post2 {
+    border: 10px gray;
+    border-radius: 10px;
     width: 175px;
     height: 100px;
     background: aqua;
 }
 #footer {
+    border: 5px gray;
+    border-radius: 10px;
+    margin: 0 auto;
     width: 200px;
     height: 50px;
     background: bisque;
 }
 
 #menu {
+    border: 5px gray;
+    border-radius: 10px;
     width: 50px;
     height: 200px;
     background: hotpink;
