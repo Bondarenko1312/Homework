@@ -1,0 +1,50 @@
+.all {
+    width: 1400px;
+    height: 1600px;
+    background: silver;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.head_box {
+    width: 200px;
+    height: 200px;
+    background: gray;
+    display: flex;
+}
+
+#header {
+    align-self: center;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    background: green;
+    align-items: center;
+}
+
+.post_box {
+    width: 350px;
+    height: 200px;
+
+}
+.post1 {
+    width: 175px;
+    height: 100px;
+    background: aqua;
+}
+.post2 {
+    width: 175px;
+    height: 100px;
+    background: aqua;
+}
+#footer {
+    width: 200px;
+    height: 50px;
+    background: bisque;
+}
+
+#menu {
+    width: 50px;
+    height: 200px;
+    background: hotpink;
+}
